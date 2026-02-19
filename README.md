@@ -3,7 +3,7 @@
 A beautiful, fully responsive landing page for an authentic Italian restaurant. This website showcases the restaurant's menu, its story, and includes a functional reservation form.
 
 ## 🔗 Live Demo
-[👉 View Live Website Here](https://your-netlify-link-here.netlify.app)  
+[👉 View Live Website Here](https://bellavista-restaurantt.netlify.app/)  
 *(Note: Replace the link above with your actual Netlify live URL once deployed)*
 
 ## ✨ Features
@@ -24,4 +24,5 @@ bellavista-restaurant/
 │
 ├── index.html    # Main HTML file containing the content and structure
 ├── style.css     # CSS file for all styling and responsiveness
+
 └── README.md     # Project documentation
